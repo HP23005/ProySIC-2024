@@ -30,7 +30,7 @@ Gráfico scatter
 Gráfico plot
 Gráfico barh
 
-# EstadoDelProyecto
+# Estado Del Proyecto
 
 # Conclusion
 Comparando los datos obtenidos de alumnos matriculados y egresados de diferentes universidades de El Salvador entre los años 2020 y 2023, se puede observar varias tendencias significativas que respaldan la necesidad del proyecto "Desarrollo de Software para Apoyo Educativo Orientado a Mejorar la Experiencia de Aprendizaje con Herramientas Personalizadas y Adaptativas".
