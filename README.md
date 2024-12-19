@@ -25,10 +25,10 @@ https://www.mined.gob.sv/educacion-superior/?wpdmc=informacion-estadistica-de-ed
 ![](imgs/limpiezadedatos.png)
 
 * Estadísticos
-1. [Gráfico pie]
-2. [Gráfico scatter]
-3. [Gráfico plot]
-4. [Gráfico barh]
+1. Gráfico pie
+2. Gráfico scatter
+3. Gráfico plot
+4. Gráfico barh
 
 # EstadoDelProyecto
 
