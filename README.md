@@ -29,6 +29,10 @@ https://www.mined.gob.sv/educacion-superior/?wpdmc=informacion-estadistica-de-ed
 2. Gráfico scatter
 3. Gráfico plot
 4. Gráfico barh
+5. Gráfico bar
+6. Gráfico stem
+7. Gráfico colorbar
+8. Gráfico contourf
 
 # EstadoDelProyecto
 
