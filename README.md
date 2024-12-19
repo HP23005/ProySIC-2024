@@ -10,6 +10,7 @@
 5. [Conclusion](#Conclusion)
 
 * Breve descripción del proyecto
+![](imgs/descripcion1.gif)
 
 * Arquitectura del proyecto
 
@@ -19,7 +20,7 @@
 https://www.mined.gob.sv/educacion-superior/?wpdmc=informacion-estadistica-de-educacion-superior
 
 -Limpieza de datos
-
+![](imgs/limpiezadedatos.png)
 
 -Estadísticos
 Gráfico pie
