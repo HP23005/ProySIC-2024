@@ -10,6 +10,7 @@
 5. [Conclusion](#Conclusion)
 
 # Descripción
+El proyecto tiene como objetivo crear una plataforma educativa que se ajuste a las necesidades y ritmos de aprendizaje de cada estudiante, con el fin de mejorar la calidad de la educación y aumentar tanto la tasa de matriculación como la de graduación en las universidades de El Salvador.
 ![](imgs/descripcion1.gif)
 ![](imgs/descripcion2.gif)
 
