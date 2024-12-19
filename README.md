@@ -9,26 +9,28 @@
 4. [Estado del proyecto](#EstadoDelProyecto)
 5. [Conclusion](#Conclusion)
 
-* Breve descripción del proyecto
+## Breve descripción del proyecto
 ![](imgs/descripcion1.gif)
 ![](imgs/descripcion2.gif)
 
-* Arquitectura del proyecto
+## Arquitectura del proyecto
 
-* Proceso de desarrollo:
+## Proceso de desarrollo:
 
--Fuente del dataset
+* Fuente del dataset
 https://www.mined.gob.sv/educacion-superior/?wpdmc=informacion-estadistica-de-educacion-superior
 
--Limpieza de datos
+* Limpieza de datos
 -Se realizó la limpieza haciendo uso de fillna(0), para rellenar los datos vacios y poder hacer uso de toda la data de los csv
 ![](imgs/limpiezadedatos.png)
 
--Estadísticos
+* Estadísticos
 Gráfico pie
 Gráfico scatter
 Gráfico plot
 Gráfico barh
+
+## Estado del proyecto
 
 # Conclusion
 Comparando los datos obtenidos de alumnos matriculados y egresados de diferentes universidades de El Salvador entre los años 2020 y 2023, se puede observar varias tendencias significativas que respaldan la necesidad del proyecto "Desarrollo de Software para Apoyo Educativo Orientado a Mejorar la Experiencia de Aprendizaje con Herramientas Personalizadas y Adaptativas".
