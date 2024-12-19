@@ -11,6 +11,7 @@
 
 * Breve descripción del proyecto
 ![](imgs/descripcion1.gif)
+![](imgs/descripcion2.gif)
 
 * Arquitectura del proyecto
 
@@ -20,6 +21,7 @@
 https://www.mined.gob.sv/educacion-superior/?wpdmc=informacion-estadistica-de-educacion-superior
 
 -Limpieza de datos
+-Se realizó la limpieza haciendo uso de fillna(0), para rellenar los datos vacios y poder hacer uso de toda la data de los csv
 ![](imgs/limpiezadedatos.png)
 
 -Estadísticos
