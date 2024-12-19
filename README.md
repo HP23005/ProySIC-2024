@@ -1,5 +1,33 @@
 # ProySIC-2024
 
+# Desarrollo de Software para Apoyo Educativo Orientado a Mejorar la Experiencia de Aprendizaje con Herramientas Personalizadas y Adaptativas.
+
+## Tabla de contenidos
+1. [Descripción](#descripción)
+2. [Arquitectura](#Arquitectura)
+3. [Proceso](#Proceso)
+4. [Estado del proyecto](#EstadoDelProyecto)
+5. [Conclusion](#Conclusion)
+
+* Breve descripción del proyecto
+
+* Arquitectura del proyecto
+
+* Proceso de desarrollo:
+
+-Fuente del dataset
+https://www.mined.gob.sv/educacion-superior/?wpdmc=informacion-estadistica-de-educacion-superior
+
+-Limpieza de datos
+
+
+-Estadísticos
+Gráfico pie
+Gráfico scatter
+Gráfico plot
+Gráfico barh
+
+* Conclusion
 Comparando los datos obtenidos de alumnos matriculados y egresados de diferentes universidades de El Salvador entre los años 2020 y 2023, se puede observar varias tendencias significativas que respaldan la necesidad del proyecto "Desarrollo de Software para Apoyo Educativo Orientado a Mejorar la Experiencia de Aprendizaje con Herramientas Personalizadas y Adaptativas".
 
 Primeramente, se nota el incremento que ha tenido el número de matriculados a lo largo de los años. Exceptuando la pequeña disminución observada en 2020 y 2021, la tendencia sigue siendo positiva y para 2023 se observó un incremento notable del 33.3%, este incremento denota un interés en la educación superior por parte de los estudiantes y denota una señal alentadora para implementar nuevas herramientas educativas que puedan mantener e incrementar ese interés.
