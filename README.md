@@ -3,19 +3,19 @@
 # Desarrollo de Software para Apoyo Educativo Orientado a Mejorar la Experiencia de Aprendizaje con Herramientas Personalizadas y Adaptativas.
 
 ## Tabla de contenidos
-1. [Descripción](#descripción)
+1. [Descripción](#Descripción)
 2. [Arquitectura](#Arquitectura)
 3. [Proceso](#Proceso)
 4. [Estado del proyecto](#EstadoDelProyecto)
 5. [Conclusion](#Conclusion)
 
-## Breve descripción del proyecto
+# Descripción
 ![](imgs/descripcion1.gif)
 ![](imgs/descripcion2.gif)
 
-## Arquitectura del proyecto
+# Arquitectura
 
-## Proceso de desarrollo:
+# Proceso
 
 * Fuente del dataset
 https://www.mined.gob.sv/educacion-superior/?wpdmc=informacion-estadistica-de-educacion-superior
@@ -30,7 +30,7 @@ Gráfico scatter
 Gráfico plot
 Gráfico barh
 
-## Estado del proyecto
+# EstadoDelProyecto
 
 # Conclusion
 Comparando los datos obtenidos de alumnos matriculados y egresados de diferentes universidades de El Salvador entre los años 2020 y 2023, se puede observar varias tendencias significativas que respaldan la necesidad del proyecto "Desarrollo de Software para Apoyo Educativo Orientado a Mejorar la Experiencia de Aprendizaje con Herramientas Personalizadas y Adaptativas".
