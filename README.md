@@ -36,6 +36,9 @@ https://www.mined.gob.sv/educacion-superior/?wpdmc=informacion-estadistica-de-ed
 8. Gráfico contourf
 
 # EstadoDelProyecto
+Actualmente el proyecto se ha enfocado en el análisis de datos a cerca de matriculas de estudiantes universitarios entre los años 2020, 2021, 2022 y 2023 así como los estudiantes graduados en los mismos años. Este proyecto no es más que el primer paso que se puede tomar de un conjunto de decisiones que favorezcan al bienestar y desarrollo educativo del país, aportando información valiosa a cerca de las posibles necesidades que presenta el sistema educativo con base en las diferencias, fluctuaciones y resultados estadísticos de los últimos años.
+
+En síntesis el proyecto actualmente forma parte de una etapa de investigación y recolección de datos de suma importancia para proponer acciones y/o soluciones a los cambios habidos en el ingreso y graduación de estudiantes universitarios y así poder mejorar la calidad de la educación para todos y todas en general.
 
 # Conclusion
 Al analizar los datos de matriculación y egresados de diversas universidades de El Salvador entre 2020 y 2023, se evidencian algunas tendencias clave que resaltan la importancia del proyecto "Desarrollo de Software para Apoyo Educativo Orientado a Mejorar la Experiencia de Aprendizaje con Herramientas Personalizadas y Adaptativas".
