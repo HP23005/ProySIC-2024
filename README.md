@@ -1,6 +1,6 @@
 # ProySIC-2024
 
-# Desarrollo de Software para Apoyo Educativo Orientado a Mejorar la Experiencia de Aprendizaje con Herramientas Personalizadas y Adaptativas.
+# Análisis Educativo de las Universidades de El Salvador para la Mejora y Retención.
 
 ## Tabla de contenidos
 1. [Descripción](#Descripción)
