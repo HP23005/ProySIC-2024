@@ -15,6 +15,7 @@ El proyecto tiene como objetivo crear una plataforma educativa que se ajuste a l
 ![](imgs/descripcion2.gif)
 
 # Arquitectura
+![](imgs/arquitectura.png)
 
 # Proceso
 
